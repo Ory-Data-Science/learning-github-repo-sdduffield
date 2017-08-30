@@ -6,3 +6,4 @@ drug inventory
 employee schedules
 drug information
 financial data
+insurance data
