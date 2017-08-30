@@ -1,0 +1,8 @@
+personal information
+lab/test results
+clinical trial data
+hospital incidence data
+drug inventory
+employee schedules
+drug information
+financial data
